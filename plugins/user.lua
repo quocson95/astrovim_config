@@ -21,4 +21,9 @@ return {
       { "<leader>T", "<cmd>TodoTelescope<cr>", desc = "Open Todo in telescope" },
     },
   },
+  {
+    "andweeb/presence.nvim",
+    opts = {},
+    event = "User AstroFile",
+  },
 }

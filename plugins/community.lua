@@ -10,5 +10,6 @@ return {
   { import = "astrocommunity.diagnostics.lsp_lines-nvim" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.typescript" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
