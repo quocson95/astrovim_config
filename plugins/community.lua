@@ -7,9 +7,8 @@ return {
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.colorscheme.nightfox" },
-  { import = "astrocommunity.diagnostics.lsp_lines-nvim" },
   { import = "astrocommunity.pack.go" },
-  { import = "astrocommunity.pack.json" },
-  { import = "astrocommunity.pack.typescript" },
+  -- { import = "astrocommunity.pack.json" },
+  -- { import = "astrocommunity.pack.typescript" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
