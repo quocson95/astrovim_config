@@ -23,6 +23,8 @@ return {
     ["gp"] = { "<cmd>Lspsaga peek_definition<CR>", desc = "Peek definition" },
     ["gd"] = { "<cmd>Lspsaga goto_definition<CR>", desc = "Goto definition" },
     ["gt"] = { "<cmd>Lspsaga peek_type_definition<CR>", desc = "Peek type definition" },
+    ["rt"] = { "<cmd>GoTestFunc<CR>", desc = "Run debug at cursor" },
+    ["ra"] = { "<cmd>GoTestAdd<CR>", desc = "Add test at cursor" },
     -- quick save
     -- ["<C-s>"] = { ":w!<cr>", desc = "Save File" },  -- change description but the same command
   },
